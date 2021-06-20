@@ -1,1 +1,1 @@
-# c-10-project
+# C10-proj-sol
